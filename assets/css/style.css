@@ -1,0 +1,73 @@
+* {
+    font-family: 'Inter', serif !important;
+    background-color: #081c15;
+    overflow: hidden;
+}
+
+p a {
+    color: #2d6a4f;
+}
+
+.kanan {
+    margin: 5% 10%;
+}
+
+.gambar-kiri {
+    width: 100%;
+    height: 100%;
+}
+
+.nama {
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.025rem;
+    width: calc(100% + 0.025rem);
+    font-size: 1.125rem;
+    line-height: 1.125;
+    font-weight: 300;
+    color: #95d5b2;
+}
+
+.text-utama {
+    text-align: left;
+    letter-spacing: 0.025rem;
+    width: calc(100% + 0.025rem);
+    font-size: 3.625em;
+    line-height: 1.125;
+    font-weight: 700;
+    color: #d8f3dc;
+}
+
+.text-deskripsi {
+    text-align: left;
+    color: #2d6a4f;
+    font-size: 1.375em;
+    line-height: 1.625;
+    font-weight: 400;
+}
+
+.head-text-contact {
+    text-align: left;
+    text-transform: uppercase;
+    color: #1b4332;
+    letter-spacing: 0.125rem;
+    width: calc(100% + 0.125rem);
+    font-size: 0.75em;
+    line-height: 2;
+    font-weight: 300;
+}
+
+.text-contact {
+    text-align: left;
+    color: #2d6a4f;
+    font-size: 0.975rem;
+    font-weight: 400;
+}
+
+.text-footer {
+    text-align: left;
+    color: #1b4332;
+    font-size: 0.75em;
+    line-height: 2;
+    font-weight: 300;
+}
